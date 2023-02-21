@@ -703,20 +703,20 @@ section {
   font-size: 18px;
 }
 
-.Nos Actions .Action-box .blue {
+.Nos Actions .Action-box.blue {
   border-bottom: 3px solid #2db6fa;
 }
 
-.Nos Actions .Action-box .blue .icon {
+.Nos Actions .Action-box.blue .icon {
   color: #2db6fa;
   background: #dbf3fe;
 }
 
-.Nos Actions .Action-box .blue .read-more {
+.Nos Actions .Action-box.blue .read-more {
   color: #2db6fa;
 }
 
-.Nos Actions .Action-box .blue:hover {
+.Nos Actions .Action-box.blue:hover {
   background: #2db6fa;
 }
 
@@ -724,84 +724,84 @@ section {
   border-bottom: 3px solid #f68c09;
 }
 
-.Nos Actions .Action-box .orange .icon {
+.Nos Actions .Action-box.orange .icon {
   color: #f68c09;
   background: #fde3c4;
 }
 
-.Nos Actions .Action-box .orange .read-more {
+.Nos Actions .Action-box.orange .read-more {
   color: #f68c09;
 }
 
-.Nos Actions .Action-box .orange:hover {
+.Nos Actions .Action-box.orange:hover {
   background: #f68c09;
 }
 
-.Nos Actions .Action-box .green {
+.Nos Actions .Action-box.green {
   border-bottom: 3px solid #08da4e;
 }
 
-.Nos Actions .Action-box .green .icon {
+.Nos Actions .Action-box.green .icon {
   color: #08da4e;
   background: #cffddf;
 }
 
-.Nos Actions .Action-box .green .read-more {
+.Nos Actions .Action-box.green .read-more {
   color: #08da4e;
 }
 
-.Nos Actions .Action-box .green:hover {
+.Nos Actions .Action-box.green:hover {
   background: #08da4e;
 }
 
-.Nos Actions .Action-box .red {
+.Nos Actions .Action-box.red {
   border-bottom: 3px solid #e9222c;
 }
 
-.Nos Actions .Action-box .red .icon {
+.Nos Actions .Action-box.red .icon {
   color: #e9222c;
   background: #fef7f8;
 }
 
-.Nos Actions .Action-box .red .read-more {
+.Nos Actions .Action-box.red .read-more {
   color: #e9222c;
 }
 
-.Nos Actions .Action-box .red:hover {
+.Nos Actions .Action-box.red:hover {
   background: #e9222c;
 }
 
-.Nos Actions .Action-box .purple {
+.Nos Actions .Action-box.purple {
   border-bottom: 3px solid #b50edf;
 }
 
-.Nos Actions .Action-box .purple .icon {
+.Nos Actions .Action-box.purple .icon {
   color: #b50edf;
   background: #f8e4fd;
 }
 
-.Nos Actions .Action-box .purple .read-more {
+.Nos Actions .Action-box.purple .read-more {
   color: #b50edf;
 }
 
-.Nos Actions .Action-box .purple:hover {
+.Nos Actions .Action-box.purple:hover {
   background: #b50edf;
 }
 
-.Nos Actions .Action-box .pink {
+.Nos Actions .Action-box.pink {
   border-bottom: 3px solid #f51f9c;
 }
 
-.Nos Actions .Action-box .pink .icon {
+.Nos Actions .Action-box.pink .icon {
   color: #f51f9c;
   background: #feecf7;
 }
 
-.Nos Actions .Action-box .pink .read-more {
+.Nos Actions .Action-box.pink .read-more {
   color: #f51f9c;
 }
 
-.Nos Actions .Action-box .pink:hover {
+.Nos Actions .Action-box.pink:hover {
   background: #f51f9c;
 }
 
@@ -811,7 +811,7 @@ section {
   color: #fff;
 }
 
-.Nos Actions .Action-box:hover .icon {
+.Nos Actions .Action-box:hover.icon {
   background: #fff;
 }
 

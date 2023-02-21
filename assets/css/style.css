@@ -661,9 +661,9 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Nos Actions
+# Services
 --------------------------------------------------------------*/
-.Nos Actions .Action-box {
+.services .service-box {
   box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
   height: 100%;
   padding: 60px 30px;
@@ -672,7 +672,7 @@ section {
   border-radius: 5px;
 }
 
-.Nos Actions .Action-box .icon {
+.services .service-box .icon {
   font-size: 36px;
   padding: 40px 20px;
   border-radius: 4px;
@@ -683,12 +683,12 @@ section {
   transition: 0.3s;
 }
 
-.Nos Actions .Action-box h3 {
+.services .service-box h3 {
   color: #444444;
   font-weight: 700;
 }
 
-.Nos Actions .Action-box .read-more {
+.services .service-box .read-more {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -697,123 +697,124 @@ section {
   padding: 8px 20px;
 }
 
-.Nos Actions .Action-box .read-more i {
+.services .service-box .read-more i {
   line-height: 0;
   margin-left: 5px;
   font-size: 18px;
 }
 
-.Nos Actions .Action-box.blue {
+.services .service-box.blue {
   border-bottom: 3px solid #2db6fa;
 }
 
-.Nos Actions .Action-box.blue .icon {
+.services .service-box.blue .icon {
   color: #2db6fa;
   background: #dbf3fe;
 }
 
-.Nos Actions .Action-box.blue .read-more {
+.services .service-box.blue .read-more {
   color: #2db6fa;
 }
 
-.Nos Actions .Action-box.blue:hover {
+.services .service-box.blue:hover {
   background: #2db6fa;
 }
 
-.Nos Actions.Action-box.orange {
+.services .service-box.orange {
   border-bottom: 3px solid #f68c09;
 }
 
-.Nos Actions .Action-box.orange .icon {
+.services .service-box.orange .icon {
   color: #f68c09;
   background: #fde3c4;
 }
 
-.Nos Actions .Action-box.orange .read-more {
+.services .service-box.orange .read-more {
   color: #f68c09;
 }
 
-.Nos Actions .Action-box.orange:hover {
+.services .service-box.orange:hover {
   background: #f68c09;
 }
 
-.Nos Actions .Action-box.green {
+.services .service-box.green {
   border-bottom: 3px solid #08da4e;
 }
 
-.Nos Actions .Action-box.green .icon {
+.services .service-box.green .icon {
   color: #08da4e;
   background: #cffddf;
 }
 
-.Nos Actions .Action-box.green .read-more {
+.services .service-box.green .read-more {
   color: #08da4e;
 }
 
-.Nos Actions .Action-box.green:hover {
+.services .service-box.green:hover {
   background: #08da4e;
 }
 
-.Nos Actions .Action-box.red {
+.services .service-box.red {
   border-bottom: 3px solid #e9222c;
 }
 
-.Nos Actions .Action-box.red .icon {
+.services .service-box.red .icon {
   color: #e9222c;
   background: #fef7f8;
 }
 
-.Nos Actions .Action-box.red .read-more {
+.services .service-box.red .read-more {
   color: #e9222c;
 }
 
-.Nos Actions .Action-box.red:hover {
+.services .service-box.red:hover {
   background: #e9222c;
 }
 
-.Nos Actions .Action-box.purple {
+.services .service-box.purple {
   border-bottom: 3px solid #b50edf;
 }
 
-.Nos Actions .Action-box.purple .icon {
+.services .service-box.purple .icon {
   color: #b50edf;
   background: #f8e4fd;
 }
 
-.Nos Actions .Action-box.purple .read-more {
+.services .service-box.purple .read-more {
   color: #b50edf;
 }
 
-.Nos Actions .Action-box.purple:hover {
+.services .service-box.purple:hover {
   background: #b50edf;
 }
 
-.Nos Actions .Action-box.pink {
+.services .service-box.pink {
   border-bottom: 3px solid #f51f9c;
 }
 
-.Nos Actions .Action-box.pink .icon {
+.services .service-box.pink .icon {
   color: #f51f9c;
   background: #feecf7;
 }
 
-.Nos Actions .Action-box.pink .read-more {
+.services .service-box.pink .read-more {
   color: #f51f9c;
 }
 
-.Nos Actions .Action-box.pink:hover {
+.services .service-box.pink:hover {
   background: #f51f9c;
 }
 
-.Nos Actions .Action-box:hover h3,
-.Nos Actions .Action-box:hover p,
-.Nos Actions .Action-box:hover .read-more {
+.services .service-box:hover h3,
+.services .service-box:hover p,
+.services .service-box:hover .read-more {
   color: #fff;
 }
 
-.Nos Actions .Action-box:hover.icon {
+.services .service-box:hover .icon {
   background: #fff;
 }
+
 
 /*--------------------------------------------------------------
 # F.A.Q

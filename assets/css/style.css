@@ -2112,6 +2112,7 @@ section {
   line-height: 0;
   margin-right: 10px;
   transition: 0.3s;
+  position: relative;
 }
 
 .footer .footer-top .social-links a:hover {
@@ -2154,20 +2155,7 @@ section {
   padding-top: 0;
 }
 
-.footer .footer-top .footer-links ul a {
-  color: #013289;
-  transition: 0.3s;
-  display: inline-block;
-  line-height: 1;
-}
 
-.footer .footer-top .footer-links ul a:hover {
-  color: #4154f1;
-}
-
-.footer .footer-top .footer-contact p {
-  line-height: 26px;
-}
 
 .footer .copyright {
   text-align: center;

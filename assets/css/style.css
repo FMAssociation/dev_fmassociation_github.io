@@ -504,7 +504,7 @@ section {
 @media (max-width: 991px) {
   .hero {
     height: auto;
-    padding: 900px 0 60px 0;
+    padding: 931px 0 748px 0;
   }
 
   .hero .hero-img {
@@ -523,11 +523,11 @@ section {
   }
 
   .hero h1 {
-    font-size: 32px;
+    font-size: 50px;
   }
 
   .hero h2 {
-    font-size: 24px;
+    font-size: 50px;
   }
 
   .hero .hero-img img {
